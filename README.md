@@ -3,7 +3,6 @@
 
 # 💫 Acerca de mi:
 Ingeniería en Sistemas con especialidad en Ciencia de Datos
-22 años
 
 
 ## 🌐 Redes Sociales:
