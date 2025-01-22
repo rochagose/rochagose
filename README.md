@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZsZHo4NWx1ejN6bnBkdmtwdjR4NXpzenhwbzV4MWw2Mm4yOXY3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200"/>
+</div>
 # 🗣️ Spotify: 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h86q3gu4zs5ze955g1fw20xm0&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
