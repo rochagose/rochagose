@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h86q3gu4zs5ze955g1fw20xm0&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h86q3gu4zs5ze955g1fw20xm0&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 # 💫 Acerca de:
 Ingeniería en Sistemas con especialidad en Ciencia de Datos
